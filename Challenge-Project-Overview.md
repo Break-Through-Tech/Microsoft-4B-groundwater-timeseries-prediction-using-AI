@@ -1,7 +1,9 @@
 # Groundwater time series forecasting using AI
 
 **Company / Org:** Microsoft  
+
 **Challenge Advisor:** Aarti Dwivedi, aartidwivedi@microsoft.com  
+
 **AI Coach:** Alexandra Ladyzhensky, alexandra.ladyzhensky@breakthroughtech.org
 
 **Program Manager:** Tyla Daniels, tyla.daniels@breakthroughtech.org
