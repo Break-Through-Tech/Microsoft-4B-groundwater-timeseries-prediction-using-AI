@@ -109,7 +109,7 @@ The following resources will help your team understand the problem space and pot
 
 **Recommended free coding / collaboration tools**
 * Whatever is comfortable to you but Github should always reflect your progress.
-* […]
+
 
 ---
 
