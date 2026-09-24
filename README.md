@@ -12,7 +12,7 @@
 |------------------|-------------------|------------------------------------------------------------------------|
 | Rutvi Karnik     | @rutvikarnik5     |                                                                        |
 | Simran Maharajh  | @simran-maharajh  |                                                                        |
-| Johnson K C      | @JOhnsonKC201     |                                                                        |
+| Johnson K C      | @JOhnsonKC201     | Feature engineering: time, rainfall, and water level history features for both datasets                                                                        |
 
 ---
 
