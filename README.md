@@ -11,7 +11,7 @@
 | Name             | GitHub Handle     | Contribution                                                           |
 |------------------|-------------------|------------------------------------------------------------------------|
 | Rutvi Karnik     | @rutvikarnik5     |                                                                        |
-| Simran Maharajh  | @simran-maharajh  |                                                                        |
+| Simran Maharajh  | @simran-maharajh  | - Data Cleaning: Removed columns without values and interpolated the rest of the columns with missing values.                                                                       |
 | Johnson K C      | @JOhnsonKC201     | Feature engineering: time, rainfall, and water level history features for both datasets                                                                        |
 
 ---
