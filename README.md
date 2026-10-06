@@ -1,6 +1,6 @@
-# AI Studio Challenge Project Title
+# Groundwater Timeseries Prediction
 
-> 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
+> **Microsoft - Break Through Tech AI Studio**
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Name             | GitHub Handle     | Contribution                                                           |
 |------------------|-------------------|------------------------------------------------------------------------|
-| Rutvi Karnik     | @rutvikarnik5     |                                                                        |
+| Rutvi Karnik     | @rutvikarnik5     | Standardizing categorical features by performing one-hot encoding                                                                       |
 | Simran Maharajh  | @simran-maharajh  | - Data Cleaning: Removed columns without values and interpolated the rest of the columns with missing values.                                                                       |
 | Johnson K C      | @JOhnsonKC201     | Feature engineering: time, rainfall, and water level history features for both datasets                                                                        |
 
