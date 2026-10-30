@@ -12,7 +12,7 @@
 |------------------|-------------------|------------------------------------------------------------------------|
 | Rutvi Karnik     | @rutvikarnik5     | Standardizing categorical features by performing one-hot encoding                                                                       |
 | Simran Maharajh  | @simran-maharajh  | - Data Cleaning: Removed columns without values and interpolated the rest of the columns with missing values.                                                                       |
-| Johnson K C      | @JOhnsonKC201     | Feature engineering: time, rainfall, and water level history features for both datasets                                                                        |
+| Johnson K C      | @JOhnsonKC201     | Feature engineering: time, rainfall, and water level history features for both datasets<br>LSTM model: 30-day windows per well that predict the next 7 days of water level change, evaluated against a persistence baseline (RMSE per day)                                                                        |
 
 ---
 
